@@ -1,7 +1,7 @@
 # Geospatial Machine Learning in Remote Sensing (MUSA 650)
 
-<div style="width: 100%; height: 200px; overflow: hidden; display: block;">
-  <img src="public/usgs-35Z2ylLRCO8-unsplash.jpg" style="width: 100%; display: block; margin: 0; transform: scale(1.5); transform-origin: center top;" />
+<div style="width: 100%; height: 200px; overflow: hidden; display: flex; align-items: flex-start;">
+<img src="public/usgs-35Z2ylLRCO8-unsplash.jpg" style="width: 100%; height: 1000px; object-fit: cover; object-position: center top;" />
 </div>
 
 [Overview](#overview-and-objectives) | [Schedule](#schedule) | [Tips](#tips-for-success) | [Assignments](#assignments) | [Software](#software) | [Academic Integrity](#academic-integrity-and-ai-use)
